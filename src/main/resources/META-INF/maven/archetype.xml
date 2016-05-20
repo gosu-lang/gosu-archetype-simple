@@ -1,0 +1,10 @@
+<archetype>
+  <id>gosu-archetype-simple</id>
+  <sources>
+    <source>src/main/gosu/Foo.gs</source>
+    <source>src/main/gosu/FooEnhancement.gsx</source>
+  </sources>
+  <testSources>
+    <source>src/test/gosu/FooTest.gs</source>
+  </testSources>
+</archetype>
